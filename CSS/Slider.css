@@ -1,0 +1,14 @@
+.slider{
+    display: flex;
+    width: 1700px;
+    height: 800px;
+    margin-top: 20px;
+}
+
+.slider-image{
+    border-radius: 16px;
+}
+
+.slider-container{
+    
+}

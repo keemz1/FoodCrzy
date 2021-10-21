@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  justify-content: center;
+  font-family: 'Montserrat';
+  background-image: url('https://cdn.dribbble.com/users/1731254/screenshots/8346192/italian_food_illustration_tubikarts_4x.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}

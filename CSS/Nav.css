@@ -1,0 +1,52 @@
+.nav-menu{
+    display: flex;
+    align-items: center;
+    width: 1700px;
+    height: 120px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-top: 10px;
+    background-color: black;
+    border-radius: 100px;
+}
+
+.logo-container{
+    display: flex;
+    width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    border-radius: 100px;
+    background-color: blueviolet;
+    
+}
+
+.logo-image{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    border-radius: 100px;
+}
+
+.menu-list{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    list-style-type: none;
+    height: 60px;
+    border-radius: 8px;
+    margin-left: 200px;
+    margin-right: 10px;
+    background-color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    display: flex;
+    color: black;
+    margin: 30px;
+}

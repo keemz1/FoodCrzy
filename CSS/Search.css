@@ -1,0 +1,35 @@
+.search{
+    display: flex;
+    align-items: center;
+    margin-left: 400px;
+    margin-right: 100px;
+    height: 50px;
+    width: 500px;
+}
+
+.search-bar{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    width: 400px;
+    height: 30px;
+    border-radius: 30px;
+    letter-spacing: 2px;
+    font-size: 14px;
+    border: none;
+}
+
+
+.search-btn{
+    border-radius: 50%;
+    border: none;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    float:right;
+}
+
+.search-btn-icon{
+    width: auto;
+    height: 50%;
+}
